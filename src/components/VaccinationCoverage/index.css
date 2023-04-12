@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.dashboard-container {
+  background-color: #1c1c2b;
+  padding: 20px;
+  margin: 20px;
+}
+
+.heading {
+  color: #cbd5e1;
+}
+
+.bar-element {
+  margin: 100px;
+}

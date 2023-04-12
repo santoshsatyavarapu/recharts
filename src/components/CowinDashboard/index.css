@@ -1,0 +1,36 @@
+/* Write your CSS here */
+/* Write your CSS here */
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  background-color: #161625;
+  min-height: 100vh;
+  flex-direction: column;
+  padding: 50px;
+  font-family: 'Roboto';
+}
+
+.website-logo {
+  height: 60px;
+}
+
+.logo-heading {
+  color: #2cc6c6;
+  margin-left: 20px;
+  font-size: 50px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.main-heading {
+  color: white;
+  font-size: 40px;
+  font-weight: normal;
+}
+
+.image-view {
+  width: 500px;
+  align-self: center;
+}
